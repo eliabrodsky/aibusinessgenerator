@@ -1,5 +1,3 @@
-// script.js
-
 document.getElementById('intakeForm').addEventListener('submit', function(e) {
     e.preventDefault();
     
